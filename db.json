@@ -1,0 +1,107 @@
+{
+  "cart": [
+    {
+      "pid": "1",
+      "name": "Fake mobile",
+      "price": "14500",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "id": 1
+    },
+    {
+      "pid": "2",
+      "name": "Fake mobile",
+      "price": "14500",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "id": 2
+    },
+    {
+      "pid": "3",
+      "name": "Fake mobile",
+      "price": "14500",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 17",
+      "price": "75000",
+      "desc": "Apple Iphone 16 Pro Max",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 1
+    },
+    {
+      "name": "Galaxy s24",
+      "price": "70000",
+      "desc": "Samsung Galaxy s24 ultra ",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 2
+    },
+    {
+      "name": "Vivo",
+      "price": "14500",
+      "desc": "Fake Description",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 3
+    },
+    {
+      "name": "oppo",
+      "price": "20000",
+      "desc": "Fake Description",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 4
+    },
+    {
+      "name": "Fake mobile",
+      "price": "14500",
+      "desc": "Fake Description",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 5
+    },
+    {
+      "name": "Fake mobile",
+      "price": "14500",
+      "desc": "Fake Description",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 6
+    },
+    {
+      "name": "Fake mobile",
+      "price": "14500",
+      "desc": "Fake Description",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 7
+    },
+    {
+      "name": "Fake mobile",
+      "price": "14500",
+      "desc": "Fake Description",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 8
+    },
+    {
+      "name": "Fake mobile",
+      "price": "14500",
+      "desc": "Fake Description",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 9
+    },
+    {
+      "name": "Fake mobile",
+      "price": "14500",
+      "desc": "Fake Description",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww",
+      "category": "Mobile",
+      "id": 10
+    }
+  ]
+}
